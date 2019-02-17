@@ -5,6 +5,7 @@
 git clone https://github.com/HyoukaChitandaEru/ss-panel-v3-mod_UIChanges.git tmp && mv tmp/.git . && rm -rf tmp && git reset --hard
 改为：
 git clone https://github.com/HyoukaChitandaEru/ss-panel-v3-mod_UIChanges-1.git tmp && mv tmp/.git . && rm -rf tmp && git reset --hard
+即可，包括数据库部分都不用改，数据库也沿用ss-panel-v3-mod_UIChanges的数据库即可
 
 **ss-panel-v3-mod**是一款专为shadowsocks设计的web前端面板，再次感谢ss-panel-v3mod的工作人员，修改后的功能简介：
  
