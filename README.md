@@ -4,7 +4,7 @@
 只需要在ss-panel-v3-mod_UIChanges/How to install sspanel安装代码配合sspanel使用说明书一起食用.sh的代码中的第12行的
 git clone https://github.com/HyoukaChitandaEru/ss-panel-v3-mod_UIChanges.git tmp && mv tmp/.git . && rm -rf tmp && git reset --hard
 改为：
-git clone https://github.com/HyoukaChitandaEru/ss-panel-v3-mod_UIChanges.git tmp && mv tmp/.git . && rm -rf tmp && git reset --hard
+git clone https://github.com/HyoukaChitandaEru/ss-panel-v3-mod_UIChanges-1.git tmp && mv tmp/.git . && rm -rf tmp && git reset --hard
 
 **ss-panel-v3-mod**是一款专为shadowsocks设计的web前端面板，再次感谢ss-panel-v3mod的工作人员，修改后的功能简介：
  
